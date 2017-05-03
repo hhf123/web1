@@ -1,0 +1,21 @@
+a{
+        color:grey;
+        text-decoration: none
+     }
+    .white{
+    	color:white;
+    }
+    #green{
+    	color:green;
+    }
+    #orange{
+    	color:orange;
+    }
+ul{
+  list-style-type:none;
+}
+
+
+ul.b{
+    list-style-type:disc;
+}
